@@ -5,6 +5,7 @@
 VAR
 	ENCODER : AXIS_REF;
 	MOTOR	: AXIS_REF;
+	test	: AXIS_REF;
 END_VAR
 ]]></Declaration>
     <Implementation>
